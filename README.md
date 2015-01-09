@@ -1,7 +1,7 @@
 roadmap
 =======
 
-**The current version of the roadmap is incomplete, as we move its components from [this spreadsheet](https://docs.google.com/spreadsheets/d/1grVK-aNcSQrwNjSH-eBj1sD4_6YLo8Bt7JRhZqpLm_M/edit?usp=sharing).** 
+**The current version of the roadmap is incomplete, as we migrate its components from its original version [in this spreadsheet](https://docs.google.com/spreadsheets/d/1grVK-aNcSQrwNjSH-eBj1sD4_6YLo8Bt7JRhZqpLm_M/edit?usp=sharing).** 
 
 The [issues section](https://github.com/OpenAddressesUK/roadmap/issues) of this repository describe Open Addresses UK's roadmap, best viewed at [https://huboard.com/OpenAddressesUK/roadmap/#/](https://huboard.com/OpenAddressesUK/roadmap/#/). Feel free to comment on the individual features or to discuss in the [Open Addresses UK forums](https://github.com/OpenAddressesUK/forum/blob/master/README.md).
 
